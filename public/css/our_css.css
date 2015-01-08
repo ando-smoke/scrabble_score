@@ -1,0 +1,19 @@
+em {
+  font-weight: bold;
+  font-style: italic;
+  color: green;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+img.align-right {
+  float: right;
+  vertical-align: top;
+}
